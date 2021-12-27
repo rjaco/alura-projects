@@ -1,2 +1,2 @@
-# alura-projects
-Repository for alura-related projects
+# alura-python-game
+Repository for alura's python degree course
